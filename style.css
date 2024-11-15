@@ -1,0 +1,13 @@
+.bord{
+border-radius: 5px;
+border: 1px solid darkgreen;
+width: 200px;
+padding: 5px;
+}
+.pic{
+border-radius: 5px;
+}
+.info{
+color: burlywood;
+
+}
